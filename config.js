@@ -4,7 +4,7 @@
 //   "https://<имя-бакета>.storage.yandexcloud.net/"
 // Файл tracks.json сайт ищет по этому же адресу.
 window.CONFIG = {
-  MUSIC_BASE_URL: "https://ИМЯ-БАКЕТА.storage.yandexcloud.net/",
+  MUSIC_BASE_URL: "https://villavibe.storage.yandexcloud.net/",
   SITE_TITLE: "Bro Music",
 
   // Необязательно: значения внешнего вида по умолчанию (то, что видит новый посетитель
